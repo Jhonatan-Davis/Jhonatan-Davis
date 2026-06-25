@@ -81,9 +81,8 @@ class JhonatanDavis:
 ## 🏆 Troféus GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jhonatan-Davis&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=6" />
+  <img src="https://github-profile-badges.glitch.me/badges?username=Jhonatan-Davis" alt="Meus Troféus" />
 </div>
-
 ---
 
 ## 💼 Experiência Profissional
