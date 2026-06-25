@@ -1,14 +1,13 @@
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jhonatan%20Davis&fontSize=52&fontColor=00d4ff&fontAlignY=38&desc=Tecnologia%20da%20Informação%20%7C%20Dev%20Web%20%7C%20Redes&descAlignY=58&descColor=a0c4ff&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Técnico+em+Informática+💻;Desenvolvedor+Web+em+formação+🌐;Especialista+em+Redes+%26+Suporte+🔧;Estudante+de+Sistemas+para+Internet+🎓)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Tecnico+em+Informatica+%F0%9F%92%BB;Desenvolvedor+Web+em+formacao+%F0%9F%8C%90;Especialista+em+Redes+%26+Suporte+%F0%9F%94%A7;Estudante+de+Sistemas+para+Internet+%F0%9F%8E%93" alt="Typing SVG" />
 
 <br/><br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatan-davis-amador-ribeiro-72a0b53a8)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonatandavis64@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jhonatan-Davis)
-![Goiás, BR](https://img.shields.io/badge/📍_Morrinhos,_GO-Brasil-00d4ff?style=for-the-badge)
+![Goiás, BR](https://img.shields.io/badge/%F0%9F%93%8D_Morrinhos,_GO-Brasil-00d4ff?style=for-the-badge)
 
 </div>
 
@@ -17,7 +16,7 @@
 ## 👨‍💻 Sobre mim
 
 ```python
-class Jhonatan-Davis:
+class JhonatanDavis:
     def __init__(self):
         self.nome     = "Jhonatan Davis Amador Ribeiro"
         self.idade    = 17
@@ -44,7 +43,7 @@ class Jhonatan-Davis:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🗄️ Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL_Avançado-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_Avancado-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 💻 Linguagens
@@ -54,13 +53,13 @@ class Jhonatan-Davis:
 ### 🔧 Infraestrutura & Redes
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP_Avançado-00d4ff?style=for-the-badge&logo=cisco&logoColor=white)
-![Fibra Óptica](https://img.shields.io/badge/Fibra_Óptica-6a0dad?style=for-the-badge&logo=opsgenie&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP_Avancado-00d4ff?style=for-the-badge&logo=cisco&logoColor=white)
+![Fibra Optica](https://img.shields.io/badge/Fibra_Optica-6a0dad?style=for-the-badge&logo=opsgenie&logoColor=white)
 
 ### 🖥️ Sistemas & Suporte
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Hardware](https://img.shields.io/badge/Hardware_%26_Manutenção-FF6B35?style=for-the-badge&logo=intel&logoColor=white)
-![CFTV](https://img.shields.io/badge/CFTV_%26_Segurança-222222?style=for-the-badge&logo=hikvision&logoColor=white)
+![Hardware](https://img.shields.io/badge/Hardware_%26_Manutencao-FF6B35?style=for-the-badge&logo=intel&logoColor=white)
+![CFTV](https://img.shields.io/badge/CFTV_%26_Seguranca-222222?style=for-the-badge&logo=hikvision&logoColor=white)
 
 </div>
 
@@ -69,12 +68,12 @@ class Jhonatan-Davis:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhonatan-Davis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0c4ff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhonatan-Davis&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0c4ff"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonatan-Davis&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a0c4ff"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhonatan-Davis&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff" />
+  <img src="https://streak-stats.demolab.com/?user=Jhonatan-Davis&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff" />
 </div>
 
 ---
@@ -82,7 +81,7 @@ class Jhonatan-Davis:
 ## 🏆 Troféus GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jhonatan-Davis&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jhonatan-Davis&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=6" />
 </div>
 
 ---
@@ -153,7 +152,7 @@ class Jhonatan-Davis:
 
 ### 💬 "A tecnologia move o mundo — e eu quero mover a tecnologia."
 
-<img src="https://komarev.com/ghpvc/?username=Jhonatan-Davis&label=Visualizações+do+Perfil&color=00d4ff&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Jhonatan-Davis&label=Visualizacoes+do+Perfil&color=00d4ff&style=for-the-badge" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
 
