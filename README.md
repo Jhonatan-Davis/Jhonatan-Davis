@@ -92,6 +92,18 @@ class JhonatanDavis:
 <table align="center">
   <tr>
     <td align="center" width="90">
+      <img src="https://img.shields.io/badge/-🚀-0d1117?style=flat" />
+    </td>
+    <td>
+      <strong>Estagiário em Tecnologia (NOC)</strong> — TOPNET BRASIL<br/>
+      <sub>2026 – Atualmente</sub><br/>
+      → Monitoramento de infraestrutura de rede e ativos de telecomunicações<br/>
+      → Atuação em ambiente de Network Operations Center (NOC) para garantia de uptime<br/>
+      → Tratativa de incidentes e suporte técnico especializado
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
       <img src="https://img.shields.io/badge/-🏢-0d1117?style=flat" />
     </td>
     <td>
@@ -103,7 +115,6 @@ class JhonatanDavis:
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🎓 Formação Acadêmica
