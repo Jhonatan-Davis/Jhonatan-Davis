@@ -77,11 +77,13 @@ class JhonatanDavis:
 </div>
 
 ---
-
 ## 🏆 Troféus GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jhonatan-Davis&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=6&title=🏆" />
+  <img src="https://img.shields.io/badge/Conquistas-Pull_Shark-purple?style=for-the-badge&logo=github" alt="Pull Shark" />
+  <img src="https://img.shields.io/badge/Conquistas-Quick_Draw-gold?style=for-the-badge&logo=github" alt="Quick Draw" />
+  <img src="https://img.shields.io/badge/Conquistas-Yolo-critical?style=for-the-badge&logo=github" alt="Yolo" />
+  <img src="https://img.shields.io/badge/Conquistas-Arctic_Code_Vault-blue?style=for-the-badge&logo=github" alt="Arctic Code Vault" />
 </div>
 ---
 
